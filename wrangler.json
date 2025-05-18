@@ -1,4 +1,5 @@
-npm i -D wrangler@latest{
+{
+  npm i -D wrangler@latest
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
   "name": "tight-bird-28b4",
